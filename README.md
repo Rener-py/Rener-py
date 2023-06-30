@@ -1,3 +1,6 @@
+- 👋 Привет, я @Rener-py
+ - 👀 Мне интересно интегрироваться в среду, которая способствует моему развитию и обучению.
+ - 💻 Сейчас изучаю JavaScript, Java, C#.
 - 👋 Hi, I’m @Rener-py
 - 👀 I’m interested in integrate myself into environments that facilitate my development and learning.
 - 💻 I’m currently learning JavaScript, Java, C#.
