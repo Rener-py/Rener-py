@@ -9,3 +9,9 @@
 Rener-py/Rener-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+const Rener = {
+  pronouns: "he" | "him",
+  code: [JS, C#, Python, Java],
+  tools: [Apache ANT™, JRat, JUnit, NetBeans, Pip, Requests, Scrapy],
+  architecture: ["Microservices", "Client-server", "Controller-responder"],
+}
