@@ -15,4 +15,4 @@
 
 - Extra tools: **Apache ANT™, JRat, JUnit, NetBeans, Pip, Requests, Scrapy**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rener-py&show_icons=true&locale=en&layout=compact" alt="rener-py" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rener-py&show_icons=true&locale=en&layout=compact" alt="rener-py" /></p>
