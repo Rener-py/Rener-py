@@ -40,5 +40,4 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/Rener-py/Rener-py/output/snake.svg" alt="Snake animation" />
 
