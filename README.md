@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="center">Thermonuclear physics engineering student, noob programmer</h5>
+<h5 align="center">noob programmer</h5>
 
 ###
 
