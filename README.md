@@ -1,5 +1,6 @@
 <div align="center">
   <img height="200" src="https://th.bing.com/th/id/R.5714f6bc64da30fd25c52da27f106111?rik=wWmRFLaMRSjL2w&riu=http%3a%2f%2fen.nuclpart.phys.uoa.gr%2ffileadmin%2fnuclpart.phys.uoa.gr%2fen%2fdept1tmpl.uoa.gr%2fimages%2fbanner-home.jpg&ehk=a%2fHW3f4QEnTu2kNlMfoNZ5dss6ydtMe9nXMODcMNmHE%3d&risl=&pid=ImgRaw&r=0"  />
+  [![Rener's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rener&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ###
