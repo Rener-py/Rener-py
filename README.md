@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+![Rener's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rener&theme=chartreuse-dark)
 <h1 align="left">Rener (Ренер)</h1>
 
 ###
