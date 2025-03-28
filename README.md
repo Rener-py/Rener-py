@@ -3,10 +3,6 @@
 </div>
 
 ###
-![Rener](https://github-readme-activity-graph.vercel.app/graph?username=Rener&theme=chartreuse-dark&include_all_commits=true&include_issues=true&include_pull_requests=true&include_contributions=true)
-<h1 align="left">Rener (Ренер)</h1>
-
-###
 
 <h5 align="center"></h5>
 
