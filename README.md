@@ -1,31 +1,44 @@
 <div align="center">
-  <img height="200" src="https://th.bing.com/th/id/R.5714f6bc64da30fd25c52da27f106111?rik=wWmRFLaMRSjL2w&riu=http%3a%2f%2fen.nuclpart.phys.uoa.gr%2ffileadmin%2fnuclpart.phys.uoa.gr%2fen%2fdept1tmpl.uoa.gr%2fimages%2fbanner-home.jpg&ehk=a%2fHW3f4QEnTu2kNlMfoNZ5dss6ydtMe9nXMODcMNmHE%3d&risl=&pid=ImgRaw&r=0"  />
+  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&animation=scaleIn&textBg=false />
+  <h1 align="center"> Rener   <img width=5% src=https://github.com/user-attachments/assets/4b6fcc17-a310-4ae8-ac92-c006b73e8bd5 /> </h1> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8FF731&center=true&vCenter=true&width=435&lines=Network+engineering;Environmental+engineering;Java+Development;Gamer;Linux+user;+I+love+Raccoons" alt="Typing SVG" /></a>
+  
+#### 🔧Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cs,arduino,bash" />
+  </a>
+</p>
+
+#### 🖲️ My Tech  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,mysql,atom,vim,idea,vscode,kali,debian,windows" />
+  </a>
+</p>
+
+
+
+#### 📚 Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 16px>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,bots)](https://skillicons.dev)
+
+ <div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rener-py&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
-###
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rener-py&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ </div>
+  <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rener-py&theme=github_dark)
+  
+ </div>
 
-<h5 align="center"></h5>
+ <div align=center>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rener-py&theme=dark&border_radius=4&card_width=500&card_height=20&background=45%2C17003B%2C000000)](https://git.io/streak-stats)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rener-py&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rener-py&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="50" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-</div>
-
-###
-
+ </div>
+  
