@@ -28,6 +28,12 @@
   
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rener-py/Rener-py/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rener-py/Rener-py/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rener-py/Rener-py/output/pacman-contribution-graph.svg">
+</picture>
+
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rener-py&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  </div>
   <div align=center>
