@@ -47,4 +47,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rener-py&theme=dark&border_radius=4&card_width=500&card_height=20&background=45%2C17003B%2C000000)](https://git.io/streak-stats)
 
  </div>
-  
+ 
+</div>
+
+<div align=center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rener-py&layout=compact&langs_count=10&theme=tokyonight)
+
+</div>
