@@ -2,7 +2,9 @@
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&animation=scaleIn&textBg=false />
   <h1 align="center"> Rener   <img width=5% src=https://github.com/user-attachments/assets/4b6fcc17-a310-4ae8-ac92-c006b73e8bd5 /> </h1> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8FF731&center=true&vCenter=true&width=435&lines=Network+engineering;Environmental+engineering;Java+Development;Gamer;Linux+user;+I+love+Raccoons" alt="Typing SVG" /></a>
-  
+
+![](https://komarev.com/ghpvc/?username=R3ner&color=blueviolet&style=for-the-badge)
+
 #### 🔧Languages
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +46,7 @@
 
  <div align=center>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R3ner&theme=dark&border_radius=4&card_width=500&card_height=20&background=45%2C17003B%2C000000)](https://git.io/streak-stats)
+![R3ner's Stats](https://github-readme-stats.vercel.app/api?username=R3ner&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
 
  </div>
  
@@ -52,6 +54,6 @@
 
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ner&layout=compact&langs_count=10&theme=tokyonight)
+![R3ner's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ner&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
 
 </div>
