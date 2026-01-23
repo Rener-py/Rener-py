@@ -29,22 +29,22 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rener-py/Rener-py/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rener-py/Rener-py/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rener-py/Rener-py/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R3ner/R3ner/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R3ner/R3ner/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/R3ner/R3ner/output/pacman-contribution-graph.svg">
 </picture>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rener-py&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R3ner&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  </div>
   <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rener-py&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3ner&theme=github_dark)
   
  </div>
 
  <div align=center>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rener-py&theme=dark&border_radius=4&card_width=500&card_height=20&background=45%2C17003B%2C000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R3ner&theme=dark&border_radius=4&card_width=500&card_height=20&background=45%2C17003B%2C000000)](https://git.io/streak-stats)
 
  </div>
  
@@ -52,6 +52,6 @@
 
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rener-py&layout=compact&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ner&layout=compact&langs_count=10&theme=tokyonight)
 
 </div>
