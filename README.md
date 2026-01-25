@@ -42,18 +42,26 @@
   
 
   
- </div>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level-alternate&theme=merko&fontFamily=Anybody&preferLogin=false">
+        <img
+          alt="R3ner's GitHub Stats"
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/R3ner?cardType=level-alternate&theme=merko&fontFamily=Anybody&preferLogin=false"
+          width="420"
+        />
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+          alt="Top Langs"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3ner&layout=compact&theme=merko&fontFamily=Anybody&size_weight=0.5&count_weight=0.5"
+          width="420"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
- <div align=center>
-  
-![R3ner's Stats](https://github-readme-stats.vercel.app/api?username=R3ner&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
-
- </div>
- 
-</div>
-
-<div align=center>
-
-![R3ner's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R3ner&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
-
-</div>
