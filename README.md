@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=100% src=https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif />
+  <img width=100% src=https://github.com/user-attachments/assets/f97232a8-2861-4031-be66-8a614b50d306 />
   <h1 align="center"> Rener   <img width=5% src=https://github.com/user-attachments/assets/4b6fcc17-a310-4ae8-ac92-c006b73e8bd5 /> </h1> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8FF731&center=true&vCenter=true&width=435&lines=Network+engineering;Environmental+engineering;Java+Development;Gamer;Linux+user;+I+love+Raccoons" alt="Typing SVG" /></a>
 
