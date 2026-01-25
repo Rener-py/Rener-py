@@ -36,11 +36,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/R3ner/R3ner/output/pacman-contribution-graph.svg">
 </picture>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R3ner&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R3ner&theme=merko&hide_border=true&bg_color=FFFFFF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
  </div>
   <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3ner&theme=github_dark)
+
   
  </div>
 
