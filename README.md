@@ -48,7 +48,7 @@
       <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level-alternate&theme=merko&fontFamily=Anybody&preferLogin=false">
         <img
           alt="R3ner's GitHub Stats"
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/R3ner?cardType=level-alternate&theme=merko&fontFamily=Anybody&preferLogin=false"
+          src="https://github-readme-stats.vercel.app/api?username=R3ner&theme=merko&show_icons=true"
           width="420"
         />
       </a>
