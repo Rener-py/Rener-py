@@ -36,7 +36,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/R3ner/R3ner/output/pacman-contribution-graph.svg">
 </picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R3ner&theme=merko&hide_border=true&bg_color=FFFFFF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rener's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R3ner&theme=merko&hide_border=true&bg_color=FFFFFF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
  </div>
   <div align=center>
   
@@ -45,10 +45,10 @@
 <table>
   <tr>
     <td align="left">
-      <a href="https://www.youtube.com/watch?v=KyWMhXH0cGw">
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=merko&fontFamily=Baloo%20Da%202&preferLogin=false">
         <img
           alt="R3ner's GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=R3ner&theme=merko&show_icons=true"
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/R3ner?cardType=level&theme=merko&fontFamily=Baloo%20Da%202&preferLogin=false"
           width="420"
         />
       </a>
