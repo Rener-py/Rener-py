@@ -15,7 +15,7 @@
 #### 🖲️ My Tech  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,atom,vim,idea,vscode,kali,debian,windows" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,sqlite,mongodb,atom,vim,idea,vscode,kali,debian,windows" />
   </a>
 </p>
 
@@ -41,27 +41,4 @@
   <div align=center>
   
 
-  
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=merko&fontFamily=Baloo%20Da%202&preferLogin=false">
-        <img
-          alt="R3ner's GitHub Stats"
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/R3ner?cardType=level&theme=merko&fontFamily=Baloo%20Da%202&preferLogin=false"
-          width="420"
-        />
-      </a>
-    </td>
-    <td align="left">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-          alt="Top Langs"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3ner&layout=compact&theme=merko&fontFamily=Anybody&size_weight=0.5&count_weight=0.5"
-          width="420"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
 
