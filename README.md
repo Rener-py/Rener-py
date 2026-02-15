@@ -15,7 +15,7 @@
 #### 🖲️ My Tech  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,sqlite,mongodb,atom,vim,idea,vscode,kali,debian,windows" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,sqlite,mongodb,atom,idea,kali,debian,redhat" />
   </a>
 </p>
 
